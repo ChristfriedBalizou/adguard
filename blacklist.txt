@@ -14,3 +14,5 @@ udcm.yahoo.com
 bdapi-ads.realmemobile.com
 ck.ads.oppomobile.com
 ads-api.tiktok.com
+appmetrica.yandex.ru
+metrika.yandex.ru
