@@ -5,11 +5,12 @@
 advertising-api-eu.amazon.com
 api.bugsnag.com
 app.bugsnag.com
-browser.sentry-cdn.com
-app.getsentry.com
+*.sentry-cdn.com
+*.getsentry.com
 widgets.pinterest.com
 business-api.tiktok.com
 udc.yahoo.com
 udcm.yahoo.com
 bdapi-ads.realmemobile.com
 ck.ads.oppomobile.com
+ads-api.tiktok.com
