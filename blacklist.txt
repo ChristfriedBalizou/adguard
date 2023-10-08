@@ -1,7 +1,6 @@
 !
 ! Source name: Custom filter based on Test Ad Block - Tools
 ! Source: https://d3ward.github.io/toolz/adblock.html
-!
 *.getsentry.com
 *.sentry-cdn.com
 adfox.yandex.ru
@@ -94,6 +93,7 @@ o2.mouseflow.com
 offerwall.yandex.net
 open.oneplus.net
 pagead2.googleadservices.com
+partner.ads.js
 partnerads.ysm.yahoo.com
 pixel.facebook.com
 realtime.luckyorange.com
